@@ -1,0 +1,13 @@
+.image {
+  height: 150px;
+}
+.posters-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.each-poster {
+  width: 150px;
+  margin:10px;
+  border: solid  1px black;
+}
